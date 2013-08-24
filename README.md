@@ -1,4 +1,4 @@
-Firefox OS #Hashtag Watched 
+Firefox OS #Hashtag Watcher
 ==================================================
 
 This is an example of FireFox OS push notifications via websockets using Node.js with the socket.io and nTwitter modules. The server waits for tweets with specific keywords (using the Twitter streaming API) and pushes them to the client through websockets.
