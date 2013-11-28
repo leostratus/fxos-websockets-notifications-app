@@ -7,6 +7,8 @@ The "client" module is the FireFox OS app with a `manifest.webapp` file which ca
 
 This was a prototype/hack for the BrazilJS 2013 conference.
 
+Based on earlier work in [firefox_os_websocket_notification](https://github.com/mmollaverdi/firefox_os_websocket_notification) by [Mehdi Mollaverdi](https://github.com/mmollaverdi).
+
 ## How to install
 
 ### Run the server
